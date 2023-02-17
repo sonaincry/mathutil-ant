@@ -54,7 +54,7 @@ public class MathUtilityTest {
         Assert.assertEquals(720, MathUtility.getFactorial(6));
     }
     //viết kiểu assertequal (expected, actual)
-    //lặp đi lặp lại -> code bốc mùi
+    //lặp đi lặp lại -> code bốc mùir
     //nhược điểm đoạn code trên
     //trộn lẫn giữa lệnh so sánh và các data dùng để test
     //vì trộn lẫn nên ta khó nhìn hết đầy đủ các test case
